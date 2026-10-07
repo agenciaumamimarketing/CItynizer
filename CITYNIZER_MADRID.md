@@ -3,14 +3,14 @@
 **Proyecto:** Citynizer Plaza Lavapiés / F\*CK BRUNCH  
 **Agencia:** Agencia Umami Marketing Gastronómico  
 **Responsable general:** Juan Acuña  
-**Última actualización:** 5 de octubre de 2026  
+**Última actualización:** 7 de octubre de 2026  
 **Uso:** referencia interna del equipo y continuidad del proyecto.
 
 Este archivo reúne la información recuperada de las conversaciones, el contrato, el plan interno, las propuestas y los materiales de F\*CK BRUNCH. Distingue el alcance contractual más reciente de los servicios presupuestados aparte y de los antecedentes. No acredita la firma, el pago ni la ejecución de ningún servicio.
 
 ## 1. Resumen ejecutivo
 
-Citynizer Madrid tiene un concepto gastronómico ya existente, F\*CK BRUNCH. La intervención de Umami consiste en recuperar notoriedad, generar interés y reservas, y mantener después una comunicación estable.
+Citynizer Madrid tiene un concepto gastronómico ya existente, F\*CK BRUNCH. La intervención de Umami consiste en recuperar notoriedad, generar interés y reservas, y mantener después una comunicación estable. La reunión incorporada el 07/10/2026 amplía el enfoque editorial de noviembre: comenzar con el brunch y pasar gradualmente a Citynizer como bar, las cenas de Navidad y Nochevieja. El cliente prioriza recuperar público de viernes y sábado. No habrá evento presencial ni presupuesto para influencers de pago en 2026; Meta Ads y la sesión audiovisual siguen pendientes de aprobación. Ver sección 21.
 
 | Área | Acuerdo registrado |
 | --- | --- |
@@ -41,8 +41,8 @@ Citynizer Madrid tiene un concepto gastronómico ya existente, F\*CK BRUNCH. La 
 | Dirección del establecimiento | Calle Juanelo, 17, Madrid |
 | Instagram indicado en materiales | @citynizerplaza_lavapies |
 | Teléfono de reservas indicado | 915 39 56 30 |
-| Horario de F\*CK BRUNCH indicado | Sábados y domingos de 13:00 a 16:00 h |
-| Interlocutor mencionado en la propuesta | José Manuel; apellido, cargo y datos directos no constan en las fuentes consultadas |
+| Horario de F\*CK BRUNCH indicado | Materiales anteriores: sábados y domingos, 13:00–16:00; reunión incorporada el 07/10/2026: se menciona 13:00–17:00. Confirmar hora final antes de publicar |
+| Interlocutor mencionado en la propuesta | José Manuel en propuesta; José en reunión. Nombre completo, cargo y facultad para aprobar contenidos/gastos pendientes de validación |
 
 Los horarios, la carta, el precio y el teléfono proceden de los materiales aportados. Su vigencia para la campaña de noviembre debe validarse con el cliente antes de publicar.
 
@@ -163,7 +163,7 @@ La nota de prensa original utiliza algunas descripciones diferentes: ensaladilla
 - Coordinación de comunicación previa, visitas y colaboraciones.
 - Seguimiento de publicaciones generadas y recopilación de impactos.
 
-La celebración de un evento presencial, su fecha y su alcance están pendientes de confirmación. La gestión de comunicación e invitaciones no implica que la agencia asuma los costes externos de producción del evento.
+En la reunión incorporada el 07/10/2026 el cliente confirma que no habrá evento presencial. Las referencias previas a invitaciones para un evento quedan como antecedente; se contemplan visitas individuales y colaboraciones orgánicas por invitación. No hay presupuesto para influencers de pago en 2026. Coordinar las condiciones de cada colaboración y los costes de producto/consumiciones; no hay publicaciones garantizadas registradas.
 
 ### Meta Ads y cierre
 
@@ -391,11 +391,11 @@ Las últimas exclusiones detalladas proceden de la propuesta de Madrid y complem
 5. Paula programa, publica, gestiona la comunidad y recopila métricas.
 6. Juan supervisa el informe y las conclusiones.
 
-**Canal registrado:** grupo de WhatsApp del proyecto. Quedan por fijar el día de envío de calendarios, plazo de respuesta, carpetas, nomenclatura y sistema de versiones. La reunión interna semanal durante noviembre figura como punto pendiente, sin horario aprobado.
+**Canales actualizados por la reunión incorporada el 07/10/2026:** grupo de WhatsApp ya creado para coordinación diaria y revisiones; correo a Juan Acuña para información estructurada, que él distribuye. Envío del calendario de ideas a mitad de mes, revisión durante esa semana y producción tras aprobación, buscando dos semanas de margen antes de publicar. Quedan por fijar el día exacto, plazo concreto de respuesta, carpetas, nomenclatura y versiones. El cliente pide planificación estricta, sin solicitudes habituales de hoy para mañana ni disponibilidad 24 horas. La reunión interna semanal durante noviembre sigue sin horario aprobado.
 
 ## 12. Cronograma de referencia
 
-Las fechas contractuales están definidas; el reparto por semanas procede de la propuesta y sirve como guía, pendiente del calendario concreto.
+Las fechas contractuales están definidas. La tabla conserva la guía de la propuesta anterior; la reunión incorporada el 07/10/2026 sitúa la preparación en octubre y orienta el inicio de noviembre al brunch, con transición gradual a Citynizer y Navidad/Nochevieja. El calendario definitivo deberá adaptar esta guía y aprobarse antes de producir y publicar.
 
 | Periodo | Trabajo previsto |
 | --- | --- |
@@ -406,7 +406,7 @@ Las fechas contractuales están definidas; el reparto por semanas procede de la 
 | Noviembre · semana 4 | Optimización, recopilación de impactos, informe y transición |
 | Desde diciembre | Gestión mensual de Instagram, colaboraciones, Meta Ads e informes |
 
-No hay fecha confirmada para un evento presencial ni para una sesión audiovisual.
+El cliente descarta el evento presencial. Se propone una sesión audiovisual en octubre, con opciones tentativas de los días 15, 16 y 19; no hay contratación ni fecha confirmada.
 
 ## 13. Medición e informes
 
@@ -422,14 +422,15 @@ No hay fecha confirmada para un evento presencial ni para una sesión audiovisua
 ## 14. Materiales e información que se deben recopilar
 
 - [ ] Accesos a Instagram, Meta Business Suite y cuenta publicitaria.
-- [ ] Logotipo, manual de marca, tipografías, colores y archivos editables.
+- [x] Manual de marca recibido; pendientes logotipos vectoriales, tipografías/licencias y editables.
 - [ ] Banco disponible de fotografías y vídeos.
 - [ ] Información corporativa, origen y descripción validada del concepto.
 - [ ] Carta vigente, productos, precios y condiciones del menú.
 - [ ] Horarios, teléfono, contacto y enlace de reservas.
-- [ ] Información del posible evento y datos para la nota de prensa.
-- [ ] Histórico de publicaciones y campañas.
-- [ ] Listados anteriores de medios, influencers y colaboradores.
+- [x] Evento presencial descartado por el cliente en la reunión incorporada el 07/10/2026.
+- [ ] Novedades actuales, portavoz y recursos validados para actualizar la nota de prensa.
+- [x] Referencias de campañas anteriores recibidas según la reunión; pendiente revisar recursos e histórico completo.
+- [x] Información/clipping de prensa anterior recibidos según la reunión; pendiente ampliar/actualizar medios y comprobar listado de creadores.
 - [ ] Presupuesto disponible para publicidad.
 - [ ] Persona autorizada para aprobar y plazo máximo de respuesta.
 
@@ -441,11 +442,12 @@ Estas casillas representan necesidades pendientes de comprobar; no implican que 
 
 - [ ] Asignar la ejecución técnica de Meta Ads.
 - [ ] Confirmar inversión publicitaria del relanzamiento.
-- [ ] Confirmar si habrá evento presencial, fecha y alcance.
+- [x] Cliente confirma que no habrá evento presencial.
+- [x] Cliente confirma que no hay presupuesto para influencers de pago en 2026; colaboraciones orgánicas/por invitación.
 - [ ] Decidir si se contratará la sesión audiovisual adicional.
 - [ ] Auditar el banco de fotos y vídeos.
 - [ ] Definir carpetas, nombres de archivo y versiones.
-- [ ] Establecer día fijo de envío de calendarios y plazo de aprobación.
+- [ ] Concretar día y plazo exactos a partir de la pauta acordada: envío a mitad de mes, revisión esa semana y dos semanas de margen aproximado.
 - [ ] Fijar reunión interna semanal durante noviembre.
 
 ### Comprobaciones necesarias para cerrar el expediente
@@ -456,8 +458,10 @@ Estas casillas representan necesidades pendientes de comprobar; no implican que 
 - [ ] Aprobar concepto creativo, mensajes y públicos concretos.
 - [ ] Registrar fechas internas y material necesario para cada entregable.
 - [ ] Registrar accesos recibidos, presupuesto externo autorizado y responsables del cliente.
+- [ ] Recibir menús/precios/vigencias de Navidad y Nochevieja, promociones y días de aplicación y propuesta de actividades 2027.
+- [ ] Resolver diferencia de horario del brunch: 13:00–16:00 en materiales anteriores frente a 13:00–17:00 en la reunión.
 
-**Estado a 02/10/2026:** se han localizado propuesta, presupuesto conjunto, contrato actualizado con sesión audiovisual opcional y plan interno. Juan indicó que el original ya llevaba su firma; en la conversación se registró posteriormente una corrección con Anexo I para conservar el diseño y la firma. Queda por identificar ese PDF definitivo y verificar la aceptación del cliente. No constan facturación, pagos, calendario creativo aprobado, campañas activadas ni entregables de noviembre ejecutados. El inicio contractual sigue situado en el 01/11/2026.
+**Estado histórico a 02/10/2026 (actualización operativa en sección 21):** se han localizado propuesta, presupuesto conjunto, contrato actualizado con sesión audiovisual opcional y plan interno. Juan indicó que el original ya llevaba su firma; en la conversación se registró posteriormente una corrección con Anexo I para conservar el diseño y la firma. Queda por identificar ese PDF definitivo y verificar la aceptación del cliente. No constan facturación, pagos, calendario creativo aprobado, campañas activadas ni entregables de noviembre ejecutados. El inicio contractual sigue situado en el 01/11/2026.
 
 ## 16. Antecedentes, revisiones y diferencias de alcance
 
@@ -505,6 +509,8 @@ Se han consultado completos los siguientes archivos:
 6. `NdP FUCK BRUNCH (1).pdf` — nota de prensa fechada en septiembre de 2025; 3 páginas.
 7. `CTZ - Branding.pdf` — manual de identidad visual de Citynizer, elaborado por Erretres; 44 páginas; aportado por el usuario el 05/10/2026 y revisado en texto e imágenes. Referencia conservada: `libfile_cb05b375e6148191a5c9e913dec38500`.
 
+8. [`Reunion citynizer.docx`](documentos/reuniones/Reunion_Citynizer.docx) — transcripción completa aportada el 07/10/2026; fecha exacta de reunión no identificada; leída íntegramente. Síntesis: [acuerdos y expectativas del primer mes](documentos/reuniones/Resumen_Reunion_Citynizer_2026-10-07.md).
+
 También se ha recuperado contexto de conversaciones del proyecto sobre presupuesto, permanencia, canales y reparto de responsabilidades. Los puntos sin confirmación se han dejado expresamente pendientes.
 
 ### Actualizaciones posteriores al documento inicial
@@ -514,6 +520,9 @@ También se ha recuperado contexto de conversaciones del proyecto sobre presupue
 - 02/10/2026: Juan establece que toda la información del proyecto debe reflejarse en el repositorio de Citynizer en GitHub. El repositorio exacto sigue pendiente de localizar con la conexión disponible; no se ha efectuado ninguna subida.
 - 02/10/2026: se localiza `agenciaumamimarketing/CItynizer`, público. Los intentos de escritura reciben un error 403 de permisos de la integración; no se publica ningún archivo. El briefing inicial se prepara en PDF para el cliente, incluyendo la confirmación del presupuesto de influencers por separado de Meta Ads.
 - 05/10/2026: el usuario aporta el manual `CTZ - Branding.pdf` y solicita incorporarlo como referencia de branding a la memoria del proyecto. Se añade la sección 19.
+
+- 05/10/2026: se habilita escritura y se incorpora el expediente a GitHub; ver sección 20.
+- 07/10/2026: se incorpora la transcripción de la reunión, se actualizan las decisiones operativas y se registra el enfoque mixto de noviembre, la ausencia de evento y de presupuesto para influencers de pago en 2026. Ver sección 21 y síntesis de reunión.
 
 ## 18. Criterios para mantener este documento
 
@@ -605,3 +614,40 @@ Los textos de ejemplo, como «SIEMPRE ABIERTOS», son recursos del manual: no ac
 ## 20. Archivo del proyecto en GitHub
 
 El 05/10/2026 se habilita el acceso de escritura a `agenciaumamimarketing/CItynizer` y se incorpora el expediente: documento maestro, manual de branding, briefing de cliente, contrato localizado, plan interno, presupuesto, propuesta y referencias de producto/prensa. El índice de archivos está en `README.md`. Los intentos anteriores con error 403 se conservan como antecedentes. La incorporación del expediente no acredita aceptación contractual ni ejecución de los servicios.
+
+## 21. Memoria de reunión — Incorporación del 07/10/2026
+
+**Fuente:** [transcripción original](documentos/reuniones/Reunion_Citynizer.docx), aportada por Juan. **Síntesis completa:** [acuerdos, recursos y expectativas de noviembre](documentos/reuniones/Resumen_Reunion_Citynizer_2026-10-07.md). La fecha de incorporación no acredita la fecha exacta de reunión. Las condiciones económicas y entregables del contrato se mantienen.
+
+### Prioridad del cliente y dirección editorial
+
+Citynizer debe presentarse como un bar para amigos, de carta sencilla, música y patio, con público aproximado de 25 a 45–50 años. El cliente describe buenos resultados en 2021–2023, normalización en 2024 y descenso en 2025 y especialmente en 2026; la fecha exacta de apertura se transcribe de forma ambigua. Quiere recuperar público de viernes por la tarde y sábado por la tarde/noche y posicionar el local como la previa antes de salir. Menciona 18:00–02:00 como franja de referencia de esa experiencia y cierre a las 02:00, sin confirmar el horario completo semanal.
+
+El brunch atrae público diurno y debe enlazar con el tardeo. La comunicación necesita un cambio visible después de más de un año con pocas novedades, captar nueva clientela y mantenerse reconocible, sin acciones excesivamente extravagantes al comienzo.
+
+**Noviembre:** empezar con reactivación del F*CK BRUNCH, aproximadamente en las primeras dos semanas, y ampliar gradualmente a Citynizer, promociones, cenas/menús de grupos de Navidad y Nochevieja. La agencia acepta esta orientación. El cliente considera suficientes los entregables existentes para este mix: 8 publicaciones y 20 historias, sin ampliación automática de volumen. El reparto exacto, las fechas y las metas cuantitativas no quedan aprobados. Preparación en octubre, ejecución del 1 al 30 de noviembre y continuidad desde diciembre.
+
+### Decisiones de activación
+
+- **No habrá evento presencial de relanzamiento.**
+- **No hay presupuesto para influencers de pago en 2026.** Se trabajará con colaboraciones orgánicas y perfiles interesados en invitaciones al brunch; acordar condiciones y publicaciones individualmente.
+- **Meta Ads pendiente:** la agencia recomienda 5–6 €/día y cita aproximadamente 160 €/mes. Es una orientación; registrar inversión, periodo y autorización antes de activar anuncios.
+- **Sesión audiovisual pendiente:** propuesta para octubre, con fechas tentativas 15, 16 y 19. Confirmar disponibilidad, aceptación y coordinación con el centro; valorar horario real de brunch o captura separada de comida y ambiente. Mantiene precio opcional presupuestado de 390 € + IVA; no consta contratación.
+
+### Citynizer / The Central House
+
+Mantener diferenciadas las comunicaciones del bar y del hostel. Una actividad del hostel celebrada en Citynizer no es automáticamente una actividad propia del bar; el cliente pone como ejemplo el taller de sangría. La agenda mensual de The Central House puede mencionar el espacio. Se contemplan publicaciones conjuntas puntuales y coherentes para apoyar el relanzamiento, sin mezclar toda la comunicación.
+
+El hostel tiene dos edificios unidos por el patio: el A, con entrada por Encomienda, contiene habitaciones; el B incluye habitaciones y Citynizer. El bar tiene entrada independiente por la calle paralela. Esta explicación evita confundir acceso al hostel con acceso al bar.
+
+### Planificación, interlocución y recursos
+
+Enviar a mitad de mes el calendario de ideas del mes siguiente, con descripción de publicaciones y reels, sin exigir vídeos finales en esa fase. Revisar durante esa semana y producir tras aprobación para disponer de unas dos semanas de margen. Concretar día y plazo de respuesta. WhatsApp para coordinación diaria y revisiones; correo a Juan Acuña para información estructurada. El grupo ya está creado; se prevé incorporar al equipo, sin acreditar aquí que todos estén añadidos.
+
+El cliente solicita rigor con fechas, necesidades y plazos de entrega de información. No normalizar encargos para el día siguiente ni disponibilidad 24 horas o en horario de hostelería; valorar las urgencias como excepciones. José interviene como interlocutor: confirmar nombre completo, cargo y capacidad para aprobar gastos y contenidos.
+
+El cliente se compromete a enviar banco audiovisual, menús/precios/vigencias de Navidad y Nochevieja, promociones con días de aplicación y propuesta de actividades para 2027, y a conectar a Paula con el anterior gestor de redes. El nombre de esa persona no se identifica con seguridad. El envío prometido no se registra como recepción ejecutada. Manual de marca, referencias de campañas y clipping de prensa anterior ya aportados sirven de base.
+
+**Comprobaciones antes de publicar:** carta, condiciones, precio, bebidas, alérgenos, música, capacidad, reservas, promociones y vigencias; accesos y métricas iniciales; presupuesto publicitario y sesión; distribución del calendario y aprobador. Resolver el horario del brunch: la reunión menciona 13:00–17:00 y los materiales anteriores 13:00–16:00. No dar por reconfirmados los 24,90 € anteriores.
+
+**Expectativa de primer mes:** reactivar el brunch, renovar la percepción de Citynizer, apoyar la recuperación de viernes/sábado, dar visibilidad a la oferta navideña y dejar organizada la continuidad. Se medirá con los indicadores de la sección 13; no hay cifras de resultados garantizadas ni objetivos numéricos aprobados.
